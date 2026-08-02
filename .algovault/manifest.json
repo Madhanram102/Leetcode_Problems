@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T16:49:33.535Z",
+  "lastUpdated": "2026-08-02T16:49:40.484Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -398,6 +398,95 @@
               "runtime": "384 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Duplicate Emails/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785689380484,
+              "runtime": "447 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "game-play-analysis-i": {
+          "questionId": "511",
+          "title": "Game Play Analysis I",
+          "titleSlug": "game-play-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785689380484,
+              "runtime": "590 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Game Play Analysis I/"
+            }
+          }
+        },
+        "patients-with-a-condition": {
+          "questionId": "1527",
+          "title": "Patients With a Condition",
+          "titleSlug": "patients-with-a-condition",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785689380484,
+              "runtime": "415 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Patients With a Condition/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785689380484,
+              "runtime": "40 ms",
+              "memory": "110.6 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "sort-array-by-parity-ii": {
+          "questionId": "922",
+          "title": "Sort Array By Parity II",
+          "titleSlug": "sort-array-by-parity-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785689380484,
+              "runtime": "2 ms",
+              "memory": "49.2 MB",
+              "githubPath": "LeetCode/Array/Sort Array By Parity II/"
             }
           }
         }

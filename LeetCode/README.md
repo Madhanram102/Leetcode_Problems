@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mrmd002?theme=tokyonight&show=graph,recent&v=1785689373536" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mrmd002?theme=tokyonight&show=graph,recent&v=1785689380485" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -22,7 +22,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 
 </details>
 
@@ -33,11 +35,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
 | 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
+| 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1378 | [Replace Employee ID With The Unique Identifier](./Database/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/) | Easy |
+| 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 
