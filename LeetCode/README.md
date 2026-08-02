@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mrmd002?theme=tokyonight&show=graph,recent&v=1785689380485" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mrmd002?theme=tokyonight&show=graph,recent&v=1785689386756" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,10 +19,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
+| 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
+| 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 

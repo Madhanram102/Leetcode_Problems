@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T16:49:40.484Z",
+  "lastUpdated": "2026-08-02T16:49:46.755Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -487,6 +487,99 @@
               "runtime": "2 ms",
               "memory": "49.2 MB",
               "githubPath": "LeetCode/Array/Sort Array By Parity II/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785689386755,
+              "runtime": "2 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785689386755,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785689386755,
+              "runtime": "7 ms",
+              "memory": "55.8 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785689386755,
+              "runtime": "0 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785689386755,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
             }
           }
         }
