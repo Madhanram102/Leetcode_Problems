@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T16:50:56.034Z",
+  "lastUpdated": "2026-08-03T05:07:46.253Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -691,6 +691,24 @@
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785733666253,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
             }
           }
         }
