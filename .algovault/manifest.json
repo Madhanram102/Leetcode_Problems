@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T05:07:46.253Z",
+  "lastUpdated": "2026-08-03T05:10:39.109Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -709,6 +709,23 @@
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "1213141516            }        }        return ans;    }}": {
+              "syncedAt": 1785733839109,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
             }
           }
         }

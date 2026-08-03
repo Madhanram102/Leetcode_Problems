@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mrmd002?theme=tokyonight&show=graph,recent&v=1785733666312" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mrmd002?theme=tokyonight&show=graph,recent&v=1785733839192" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -32,6 +32,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
+| 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 
 </details>
