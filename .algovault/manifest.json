@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T05:12:36.710Z",
+  "lastUpdated": "2026-08-04T16:47:17.057Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -732,6 +732,26 @@
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785862037057,
+              "runtime": "7 ms",
+              "memory": "49.8 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
             }
           }
         }

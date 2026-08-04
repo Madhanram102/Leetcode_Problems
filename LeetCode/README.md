@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mrmd002?theme=tokyonight&show=graph,recent&v=1785733956752" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mrmd002?theme=tokyonight&show=graph,recent&v=1785862037133" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -22,6 +22,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
+| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
