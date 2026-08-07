@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T04:28:43.084Z",
+  "lastUpdated": "2026-08-07T04:28:46.102Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -768,9 +768,15 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076923084,
+              "syncedAt": 1786076770427,
               "runtime": "0 ms",
               "memory": "45.1 MB",
+              "githubPath": "LeetCode/Tree/Path Sum/"
+            },
+            "13141516        root.val);                return leftsum || rightsum;    }}": {
+              "syncedAt": 1786076926102,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Tree/Path Sum/"
             }
           }
