@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T04:26:10.427Z",
+  "lastUpdated": "2026-08-07T04:26:16.921Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785689361006,
               "runtime": "5 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
@@ -35,7 +35,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785689361007,
               "runtime": "0 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Math/Climbing Stairs/"
@@ -54,7 +54,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785689361007,
               "runtime": "1 ms",
               "memory": "76.9 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -72,7 +72,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785689361007,
               "runtime": "0 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
@@ -90,7 +90,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785689361007,
               "runtime": "0 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
@@ -109,7 +109,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785689361007,
               "runtime": "6 ms",
               "memory": "77.6 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
@@ -128,7 +128,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785689361007,
               "runtime": "41 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -147,7 +147,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785689361007,
               "runtime": "1 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
@@ -464,8 +464,8 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
-              "runtime": "39 ms",
+              "syncedAt": 1785689456034,
+              "runtime": "40 ms",
               "memory": "110.6 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
             }
@@ -705,7 +705,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785733666253,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
@@ -728,7 +728,7 @@
               "githubPath": "LeetCode/Array/Shuffle the Array/"
             },
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785733956710,
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
@@ -748,7 +748,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1785862037057,
               "runtime": "7 ms",
               "memory": "49.8 MB",
               "githubPath": "LeetCode/Array/Group Anagrams/"
@@ -768,9 +768,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786076770427,
+              "syncedAt": 1786076776921,
               "runtime": "0 ms",
-              "memory": "45.1 MB",
+              "memory": "44.9 MB",
               "githubPath": "LeetCode/Tree/Path Sum/"
             }
           }
