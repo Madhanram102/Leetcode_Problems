@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T04:26:41.137Z",
+  "lastUpdated": "2026-08-07T04:26:45.531Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -649,7 +649,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785689394185,
+              "syncedAt": 1786076805531,
               "runtime": "6 ms",
               "memory": "69.5 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -669,7 +669,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785689394185,
+              "syncedAt": 1786076805531,
               "runtime": "1 ms",
               "memory": "62.1 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -687,7 +687,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785689394185,
+              "syncedAt": 1786076805531,
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
