@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T04:26:20.042Z",
+  "lastUpdated": "2026-08-07T04:26:28.746Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -360,7 +360,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785689373535,
+              "syncedAt": 1786076788746,
               "runtime": "1585 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
@@ -377,7 +377,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785689373535,
+              "syncedAt": 1786076788746,
               "runtime": "613 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
@@ -394,7 +394,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785689373535,
+              "syncedAt": 1786076788746,
               "runtime": "384 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Duplicate Emails/"
@@ -411,7 +411,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785689380484,
+              "syncedAt": 1786076788746,
               "runtime": "447 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
@@ -428,7 +428,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785689380484,
+              "syncedAt": 1786076788746,
               "runtime": "590 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Game Play Analysis I/"
@@ -445,7 +445,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785689380484,
+              "syncedAt": 1786076788746,
               "runtime": "415 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Patients With a Condition/"
