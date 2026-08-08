@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T04:28:46.102Z",
+  "lastUpdated": "2026-08-08T04:03:14.552Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -778,6 +778,26 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Tree/Path Sum/"
+            }
+          }
+        },
+        "minimum-increase-to-maximize-special-indices": {
+          "questionId": "3891",
+          "title": "Minimum Increase to Maximize Special Indices",
+          "titleSlug": "minimum-increase-to-maximize-special-indices",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786161794552,
+              "runtime": "44 ms",
+              "memory": "129.4 MB",
+              "githubPath": "LeetCode/Array/Minimum Increase to Maximize Special Indices/"
             }
           }
         }
